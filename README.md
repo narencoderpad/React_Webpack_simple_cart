@@ -36,8 +36,6 @@ Advanced React with Webpack Setup. How to set it up yourself:
 
 ## Installation
 
-- `git clone git@github.com:rwieruch/advanced-react-webpack-babel-setup.git`
-- cd advanced-react-webpack-babel-setup
 - npm install
 - npm start
 - visit `http://localhost:8080/`
