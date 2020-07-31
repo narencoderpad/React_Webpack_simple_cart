@@ -1,4 +1,4 @@
-# advanced-react-webpack-babel-setup
+# React_Webpack_simple_cart-setup
 
 
 Advanced React with Webpack Setup. How to set it up yourself:
